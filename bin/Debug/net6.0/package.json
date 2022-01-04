@@ -1,0 +1,16 @@
+{
+  "name": "console",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "csswatch": "npx tailwindcss -i ./wwwroot/css/site.css -o ./wwwroot/css/output.css --watch",
+    "css:build": "npx tailwindcss build -i ./wwwroot/css/site.css -o ./wwwroot/css/output.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.8"
+  }
+}

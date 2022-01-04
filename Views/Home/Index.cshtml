@@ -1,0 +1,154 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+    <div
+        class="
+        flex flex-col
+        lg:flex-row
+        font-[Poppins]
+        overflow-hidden
+        h-screen
+        "
+    >
+          <div
+        class="
+          flex flex-col
+          bg-[#5584AC]
+          w-screen
+          h-1/4
+          lg:w-7/12 lg:h-screen
+          justify-center
+          items-center
+          lg:items-end
+        "
+      >
+        <div
+          class="
+            flex flex-row
+            lg:justify-end lg:items-center lg:mr-16 lg:mb-[59px]
+          "
+        >
+          <div class="lg:mr-[30px] text-center lg:text-right">
+            <h1 class="text-white font-bold text-4xl lg:text-[42px]">
+              Pertafood
+            </h1>
+            <p class="text-2xl text-white">Catering Management System</p>
+          </div>
+          <div class="hidden lg:block bg-white w-[3.1px] h-[155px]"></div>
+        </div>
+        <div class="hidden lg:flex justify-center self-center mx-16">
+          <img
+            class="object-cover max-w-full max-h-[100vh]"
+            src="~/images/5015452 1.png"
+            alt="Login Picture"
+          />
+        </div>
+      </div>
+
+      <div
+        class="
+          flex flex-col
+          justify-center
+          items-center
+          bg-[#95D1CC]
+          w-screen
+          h-3/4
+          lg:w-5/12 lg:h-screen
+          gap-2
+          lg:gap-4
+        "
+      >
+        <h2 class="font-semibold text-[33px]">Sign In</h2>
+        <p class="text-[#474C58] font-normal">Sign in to stay connected.</p>
+        <form
+          class="flex flex-col w-8/12 sm:w-7/12 lg:w-[436px] accent-[#5584AC]"
+          onSubmit="{onSubmit}"
+          novalidate
+        >
+          <div class="flex flex-col self-center">
+            <label class="text-[#474C58] font-normal mb-2" for="email"
+              >Email</label
+            >
+            <input
+              class="
+                w-72
+                lg:w-96
+                xl:w-[436px]
+                h-11
+                mb-4
+                rounded-md
+                focus:outline-none
+                px-4
+                focus:ring-2 focus:ring-[#5584AC]
+              "
+              type="text"
+              name="email"
+              id="email"
+              placeholder="ex: something@something.com"
+            />
+          </div>
+          <div class="flex flex-col self-center">
+            <label class="text-[#474C58] font-normal mb-2" for="password"
+              >Password</label
+            >
+            <input
+              class="
+                w-72
+                lg:w-96
+                xl:w-[436px]
+                h-11
+                mb-4
+                rounded-md
+                px-4
+                focus:outline-none focus:ring-2 focus:ring-[#5584AC]
+              "
+              type="password"
+              name="password"
+              id="password"
+            />
+          </div>
+          <div
+            class="
+              flex flex-col
+              lg:flex-row lg:justify-between
+              mb-4
+              lg:mb-6
+              items-center
+            "
+          >
+            <div>
+              <input
+                type="checkbox"
+                id="vehicle1"
+                name="vehicle1"
+                value="Bike"
+              />
+              <label class="text-[#474C58] font-normal" for="vehicle1">
+                Remember me?</label
+              >
+            </div>
+            <button class="text-[#22577D] hover:underline decoration-white">
+              Forgot Password
+            </button>
+          </div>
+          <button
+            class="
+              w-[188px]
+              h-11
+              text-white
+              bg-[#22577E]
+              rounded-md
+              self-center
+              shadow-xl shadow-[#22577E]/30
+              hover:scale-105
+              transition
+              duration-300
+              ease-in-out
+            "
+            type="submit"
+          >
+            Sign in
+          </button>
+        </form>
+      </div>
+    </div>
