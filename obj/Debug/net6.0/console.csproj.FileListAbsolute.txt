@@ -1,28 +1,41 @@
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\bin\Debug\net6.0\appsettings.Development.json
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\bin\Debug\net6.0\appsettings.json
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\bin\Debug\net6.0\console.staticwebassets.runtime.json
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\bin\Debug\net6.0\console.exe
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\bin\Debug\net6.0\console.deps.json
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\bin\Debug\net6.0\console.runtimeconfig.json
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\bin\Debug\net6.0\console.dll
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\bin\Debug\net6.0\ref\console.dll
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\bin\Debug\net6.0\console.pdb
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\console.csproj.AssemblyReference.cache
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\console.GeneratedMSBuildEditorConfig.editorconfig
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\console.AssemblyInfoInputs.cache
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\console.AssemblyInfo.cs
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\console.csproj.CoreCompileInputs.cache
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\console.MvcApplicationPartsAssemblyInfo.cache
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\console.RazorAssemblyInfo.cache
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\console.RazorAssemblyInfo.cs
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\staticwebassets.build.json
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\staticwebassets.development.json
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\scopedcss\bundle\console.styles.css
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\scopedcss\projectbundle\console.bundle.scp.css
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\console.dll
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\ref\console.dll
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\console.pdb
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\obj\Debug\net6.0\console.genruntimeconfig.cache
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\bin\Debug\net6.0\package-lock.json
-C:\Drive Lain\AfyRafly\Project\pertafood-console\console\bin\Debug\net6.0\package.json
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\appsettings.Development.json
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\appsettings.json
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\package-lock.json
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\package.json
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\console.staticwebassets.runtime.json
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\console.exe
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\console.deps.json
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\console.runtimeconfig.json
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\console.dll
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\ref\console.dll
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\console.pdb
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\console.csproj.AssemblyReference.cache
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\console.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\console.AssemblyInfoInputs.cache
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\console.AssemblyInfo.cs
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\console.csproj.CoreCompileInputs.cache
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\console.MvcApplicationPartsAssemblyInfo.cache
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\console.RazorAssemblyInfo.cache
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\console.RazorAssemblyInfo.cs
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\scopedcss\bundle\console.styles.css
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\scopedcss\projectbundle\console.bundle.scp.css
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\console.dll
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\ref\console.dll
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\console.pdb
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\console.genruntimeconfig.cache
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\Namotion.Reflection.dll
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\NJsonSchema.dll
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\NSwag.Annotations.dll
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\NSwag.AspNetCore.dll
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\NSwag.Core.dll
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\NSwag.Generation.dll
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+D:\ASPNETCOREMVC\project\pertafood\bin\Debug\net6.0\YamlDotNet.dll
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\console.MvcApplicationPartsAssemblyInfo.cs
+D:\ASPNETCOREMVC\project\pertafood\obj\Debug\net6.0\console.csproj.CopyComplete

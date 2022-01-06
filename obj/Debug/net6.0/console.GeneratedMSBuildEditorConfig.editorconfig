@@ -8,37 +8,25 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = console
 build_property.RootNamespace = console
-build_property.ProjectDir = C:\Drive Lain\AfyRafly\Project\pertafood-console\console\
+build_property.ProjectDir = D:\ASPNETCOREMVC\project\pertafood\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Drive Lain\AfyRafly\Project\pertafood-console\console
+build_property.MSBuildProjectDirectory = D:\ASPNETCOREMVC\project\pertafood
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Drive Lain/AfyRafly/Project/pertafood-console/console/Views/Home/Index.cshtml]
+[D:/ASPNETCOREMVC/project/pertafood/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Drive Lain/AfyRafly/Project/pertafood-console/console/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Drive Lain/AfyRafly/Project/pertafood-console/console/Views/Shared/Error.cshtml]
+[D:/ASPNETCOREMVC/project/pertafood/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Drive Lain/AfyRafly/Project/pertafood-console/console/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Drive Lain/AfyRafly/Project/pertafood-console/console/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Drive Lain/AfyRafly/Project/pertafood-console/console/Views/_ViewStart.cshtml]
+[D:/ASPNETCOREMVC/project/pertafood/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Drive Lain/AfyRafly/Project/pertafood-console/console/Views/Shared/_Layout.cshtml]
+[D:/ASPNETCOREMVC/project/pertafood/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-873zqplqoa

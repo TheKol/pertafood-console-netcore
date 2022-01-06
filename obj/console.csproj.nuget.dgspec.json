@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\console.csproj": {}
+    "D:\\ASPNETCOREMVC\\project\\pertafood\\console.csproj": {}
   },
   "projects": {
-    "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\console.csproj": {
+    "D:\\ASPNETCOREMVC\\project\\pertafood\\console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\console.csproj",
+        "projectUniqueName": "D:\\ASPNETCOREMVC\\project\\pertafood\\console.csproj",
         "projectName": "console",
-        "projectPath": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\console.csproj",
-        "packagesPath": "C:\\Users\\raden\\.nuget\\packages\\",
-        "outputPath": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\obj\\",
+        "projectPath": "D:\\ASPNETCOREMVC\\project\\pertafood\\console.csproj",
+        "packagesPath": "C:\\Users\\indra\\.nuget\\packages\\",
+        "outputPath": "D:\\ASPNETCOREMVC\\project\\pertafood\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\raden\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\indra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
           "net6.0": {
@@ -39,6 +40,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.15.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

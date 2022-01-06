@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8FRP5WHzUCFuU1rEwvrfe43GR2hLq7UomJHUJ97BLS0=",
+  "Hash": "Mc5jIn1sHJeCR07hJ5O1o2J0m+371GnJ+xcQ79YiAMs=",
   "Source": "console",
   "BasePath": "_content/console",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "console\\wwwroot",
       "Source": "console",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\obj\\Debug\\net6.0\\scopedcss\\bundle\\console.styles.css",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\obj\\Debug\\net6.0\\scopedcss\\bundle\\console.styles.css",
       "SourceId": "console",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/console",
       "RelativePath": "console.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\obj\\Debug\\net6.0\\scopedcss\\bundle\\console.styles.css"
+      "OriginalItemSpec": "D:\\ASPNETCOREMVC\\project\\pertafood\\obj\\Debug\\net6.0\\scopedcss\\bundle\\console.styles.css"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\console.bundle.scp.css",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\console.bundle.scp.css",
       "SourceId": "console",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/console",
       "RelativePath": "console.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\console.bundle.scp.css"
+      "OriginalItemSpec": "D:\\ASPNETCOREMVC\\project\\pertafood\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\console.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\css\\output.css",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\css\\output.css",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "css/output.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\output.css"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\css\\site.css",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\css\\site.css",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\favicon.ico",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\favicon.ico",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\images\\5015452 1.png",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\images\\5015452 1.png",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "images/5015452 1.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\5015452 1.png"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\js\\site.js",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\js\\site.js",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "console",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Drive Lain\\AfyRafly\\Project\\pertafood-console\\console\\wwwroot\\",
+      "ContentRoot": "D:\\ASPNETCOREMVC\\project\\pertafood\\wwwroot\\",
       "BasePath": "_content/console",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
